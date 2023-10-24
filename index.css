@@ -1,0 +1,46 @@
+img{
+    width: 850px;
+    padding: 0px 0px 0px 0px;
+    height: 350px;
+}
+body{
+    background-color: azure;
+}
+.hfg{ 
+  text-align: center;
+  color: aliceblue;
+  background-color: gray;
+  padding: 20px 0px 20px 0px;
+  font-family: sans-serif;
+}
+.tbn{
+  color: azure;
+  padding: 0px 50px 0px 0px;
+  text-align: center;
+  background-color: grey;
+  font-family: sans-serif;
+}
+.menu ul{
+  list-style: none;
+  cursor: pointer;
+  background-color: azure;
+}
+.menu li{
+  padding: 3px 0px 3px 0px;
+}
+.ton{
+  padding: 0px 210px 0px 300px;
+  color: aliceblue;
+  font-family: sans-serif;
+}
+.pai{
+  background-color: black;
+}
+.roda{
+  color: azure;
+  padding: 0px 0px 10px 0px;
+}
+small{
+  color: azure ;
+  padding: 0px 0px 0px 300px;
+}
