@@ -1,0 +1,28 @@
+img{
+    width: 850px;
+    height: 350;
+}
+.menu ul{
+    list-style: none;
+    padding: 3px 0px 0px 20px;
+    background-color: white;
+}
+.h1{
+    text-align: center;
+    font-family: sans-serif;
+    color: aliceblue;
+     background-color: gray;
+     padding: 20px 0px 20px 0px;
+}
+p{
+    padding: 400px 20px 50px 50px;
+    font-family: sans-serif;
+    color: aliceblue;
+}
+body{
+    background-color: rgb(52, 145, 161);
+}
+small{
+    color: azure ;
+    padding: 0px 0px 0px 300px;
+  }
